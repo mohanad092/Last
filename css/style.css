@@ -1,0 +1,32 @@
+
+
+body {
+    background-color: rgb(190, 188, 188);
+}
+
+
+div {
+    background-color: rgb(136, 134, 134);
+    width: 250px;
+    height: 250px;
+
+    border: 5px  solid  green;
+    border-radius: 15px ;
+}
+
+button {
+    width: 180px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border: 4px   solid   rgb(72, 255, 0)  ;
+
+    /* solid    dotted   dashed  */
+}
+
+h2 {
+    color: yellow;
+}
+p {
+    color: yellowgreen
+}
